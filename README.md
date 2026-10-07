@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Grounded RAG Q&A System with 6-Stage AI Reasoning Pipeline
 
 A production-grade, transparent Retrieval-Augmented Generation (RAG) system engineered to eliminate hallucination through multi-hop query decomposition, cross-encoder reranking, scratchpad reasoning, and post-synthesis groundedness auditing.
@@ -139,3 +140,6 @@ npm start
 2. **Single Shared API Key**: The public demo utilizes a single shared API key subject to standard Gemini rate limits; when rate-limited, the system safely falls back to local heuristic reasoning.
 3. **No User Accounts / Multi-Tenancy**: Sessions are stored client-locally and in the shared demo state without password authentication or RBAC.
 4. **Desktop-First Optimized UI**: The 3-column layout (Sidebar, Chat Feed, Details Panel) is optimized for desktop and tablet screens (1024px+ width), with collapsible panels on narrower viewports.
+=======
+# ragqasystem
+>>>>>>> c6ed18aec437a2f46190f0905b8d7a503097c867
