@@ -1,0 +1,6 @@
+{
+  "name": "RAG Q&A System with AI Reasoning",
+  "description": "End-to-end Retrieval-Augmented Generation system with query decomposition, vector retrieval, scratchpad reasoning, and groundedness verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
